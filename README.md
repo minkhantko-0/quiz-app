@@ -1,6 +1,6 @@
-# first_app
+# quiz_app
 
-A new Flutter project.
+A basic quiz app developed using Dart and Flutter framework.
 
 ## Getting Started
 
